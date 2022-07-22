@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "ui",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "500",
+    "terminal.integrated.fontSize": 18,
+    "editor.formatOnSave": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.editorAssociations": {
+        "*.dat": "default"
+    },
+    "python.formatting.provider": "black"
+}
